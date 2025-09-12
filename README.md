@@ -9,3 +9,9 @@ ________________________________________________________________________________
 v 2.0
 just sharing milestone, now i encrypt password in a diffrent file called"Hex" (i'll upload that file in the last version)
 my code is much cleaner and kinda is shaping, the main engine of generating the encrypted text is forming......
+_____________________________________________________________________________________________________________________________
+v 3.0
+added 50 more lines, actually i find out today is programmers day in my country so i liked to contribute more! 
+but this code is getting out of hand....
+today I learned that if you write more code when you can write it shorter, it will get back at ya!
+gotta keep it simple for future stuff.....
