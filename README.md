@@ -5,3 +5,7 @@ ________________________________________________________________________________
 v 1.0: 
 practicing GUI for login and sign up,
 but this is not working yet, just wanted to upload for the date.....
+____________________________________________________________________________________________________________________________
+v 2.0
+just sharing milestone, now i encrypt password in a diffrent file called"Hex" (i'll upload that file in the last version)
+my code is much cleaner and kinda is shaping, the main engine of generating the encrypted text is forming......
