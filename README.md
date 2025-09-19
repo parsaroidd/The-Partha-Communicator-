@@ -19,3 +19,12 @@ ________________________________________________________________________________
 v 4.0
 LIKE A COMPLETE DIFFRENT AND MORE SIMPLE APPROACH. ALL THE LOGIN IS WITH ONE WINDOW NOW <3
 the main engine remains un created. but this was all i did for today...
+_____________________________________________________________________________________________________________________________
+v 5.0 
+completing version 5 to some extent, the structure is complete, but memory recall in decrypting has bugs...
+and i still have that "Hex" idea in version to.
+next version: fixing memory recall, making password more secure 
+
+
+
+
